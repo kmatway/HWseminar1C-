@@ -1,0 +1,15 @@
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.csproj.AssemblyReference.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.AssemblyInfoInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.AssemblyInfo.cs
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.csproj.CoreCompileInputs.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/bin/Debug/net7.0/Z8
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/bin/Debug/net7.0/Z8.deps.json
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/bin/Debug/net7.0/Z8.runtimeconfig.json
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/bin/Debug/net7.0/Z8.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/bin/Debug/net7.0/Z8.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/refint/Z8.dll
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.pdb
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/Z8.genruntimeconfig.cache
+/Users/ekaterinamatveeva/C#/Новая папка/HWseminar1C-/Z8/obj/Debug/net7.0/ref/Z8.dll
